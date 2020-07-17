@@ -1,4 +1,5 @@
-Online event and movie ticket booking project, In this Spring tool suites use as a framework and it is mostly based on java language. The other languages that has been used is HTML and CSS, JavaScript, JSP and MySQL database
+Online event and movie ticket booking project, The project was made in two ends i.e. Admin end and user end. languages used in this are java, html, css, js, jsp, mysql as a database, done on spring frame work. In this User can buy, cancel the ticket of event.
+
 ## Home Page
 ![Screenshot (32)](https://user-images.githubusercontent.com/58200866/87747244-56d43080-c810-11ea-9fa8-2f740fd4cdb6.png)
 ## User Registration
