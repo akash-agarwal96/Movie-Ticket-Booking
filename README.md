@@ -1,6 +1,9 @@
 ## Movie Ticket Booking System
 
-* Online movie ticket booking project, The project was made in two ends i.e. Admin end and user end. languages used in this are java, html, css, js, jsp, mysql as a database, done on spring frame work. In this User can buy, cancel the ticket of event.
+* Online movie ticket booking project, The project was made in two ends i.e. Admin end and user end.
+* Technology used in this are Java, Html, Css, Js, Jsp, MySql as a database, bakend was done on spring frame work.
+* User can view the list of movies available and can directly book through it.
+* Admin can add, remove movie and maintain the database.
 
 ## Home Page
 ![Screenshot (32)](https://user-images.githubusercontent.com/58200866/87747244-56d43080-c810-11ea-9fa8-2f740fd4cdb6.png)
