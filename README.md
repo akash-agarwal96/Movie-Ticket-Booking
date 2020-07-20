@@ -1,6 +1,6 @@
 ## Movie Ticket Booking System
 
-* Online movie ticket booking project, The project was made in two ends i.e. Admin end and user end.
+* Online movie ticket booking project, The project is made in two ends i.e. Admin-end and User-end.
 * Technology used in this are Java, Html, Css, Js, Jsp, MySql as a database, bakend was done on spring frame work.
 * User can view the list of movies available and can directly book through it.
 * Admin can add, remove movie and maintain the database.
